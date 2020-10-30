@@ -1,0 +1,3 @@
+include ':ais-ABC'
+include ':app'
+rootProject.name = "testSomting"
